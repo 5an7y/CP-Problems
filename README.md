@@ -9,6 +9,7 @@ A list of my competitive programming problems solved.
 - [UVA] [10260 - Soundex](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1201)
 - [UVA] [11340 - Newspaper](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2315)
 - [UVA] [11577 - Letter Frequency](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2624)
+- [UVA] [12626 - I ❤ Pizza](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=4349)
 
 ## Priority-Queue
 
