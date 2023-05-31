@@ -14,6 +14,7 @@ A list of my competitive programming problems solved.
 ## Two pointers
 
 - [UVA] [11849 - CD](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2949)
+- [UVA] [12049 - Just Prune The List](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3200)
 
 ## Bucket
 
