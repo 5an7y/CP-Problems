@@ -25,3 +25,7 @@ A list of my competitive programming problems solved.
 - [UVA] [11997 - K Smallest Sums](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3148)
 - [UVA] [1203 - Argus](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3644)
 - [UVA] [13190 - Rockabye Tobby](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=5101)
+
+## Set / Map
+
+- [UVA] [10887 - Concatenation of Languages](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1828)
