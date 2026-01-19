@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "iostream": "cpp",
+        "ios": "cpp",
+        "tuple": "cpp",
+        "regex": "cpp",
+        "cmath": "cpp"
+    }
+}
